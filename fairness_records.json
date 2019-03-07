@@ -6,19 +6,19 @@
 					"value": [0, 0],
 					"distribution": {
 						"0": [{
-							"count": 500,
+							"count": 700,
 							"label": "NOT_BUY",
 							"is_favourable": "FALSE"
 						}, {
-							"count": 500,
+							"count": 300,
 							"label": "BUY",
 							"is_favourable": "True"
 						}]
 					},
-					"fav_class_percent": 51.7
+					"fav_class_percent": 30.0
 				}],
-				"total_fav_percent": 51.7,
-				"total_rows_percent": 50.0
+				"total_fav_percent": 30.0,
+				"total_rows_percent": 30.0
 			},
 			"minority": {
 				"values": [{
@@ -26,20 +26,20 @@
 					"is_biased": "False",
 					"distribution": {
 						"1": [{
-							"count": 500,
+							"count": 700,
 							"label": "NOT_BUY",
 							"is_favourable": "False"
 						}, {
-							"count": 500,
+							"count": 300,
 							"label": "BUY",
 							"is_favourable": "True"
 						}]
 					},
 					"fairness_value": 1.00,
-					"fav_class_percent": 50.2
+					"fav_class_percent": 30.0
 				}],
-				"total_fav_percent": 50,
-				"total_rows_percent": 50.66666666666667
+				"total_fav_percent": 30.0,
+				"total_rows_percent": 30.0
 			},
 			"bias_source": {
 				"values": []
@@ -59,19 +59,19 @@
 					"value": [0, 0],
 					"distribution": {
 						"0": [{
-							"count": 450,
+							"count": 650,
 							"label": "NOT_BUY",
 							"is_favourable": "FALSE"
 						}, {
-							"count": 550,
+							"count": 350,
 							"label": "BUY",
 							"is_favourable": "True"
 						}]
 					},
-					"fav_class_percent": 48.7
+					"fav_class_percent": 35.0
 				}],
-				"total_fav_percent": 48.7,
-				"total_rows_percent": 49.0
+				"total_fav_percent": 35.0,
+				"total_rows_percent": 35.0
 			},
 			"minority": {
 				"values": [{
@@ -79,20 +79,20 @@
 					"is_biased": "False",
 					"distribution": {
 						"1": [{
-							"count": 550,
+							"count": 660,
 							"label": "NOT_BUY",
 							"is_favourable": "False"
 						}, {
-							"count": 450,
+							"count": 340,
 							"label": "BUY",
 							"is_favourable": "True"
 						}]
 					},
-					"fairness_value": 0.81,
-					"fav_class_percent": 55.2
+					"fairness_value": 0.97,
+					"fav_class_percent": 34.0
 				}],
-				"total_fav_percent": 45,
-				"total_rows_percent": 45.66666666666667
+				"total_fav_percent": 34.0,
+				"total_rows_percent": 34.0
 			},
 			"bias_source": {
 				"values": []
@@ -112,19 +112,19 @@
 					"value": [0, 0],
 					"distribution": {
 						"0": [{
-							"count": 475,
+							"count": 625,
 							"label": "NOT_BUY",
 							"is_favourable": "FALSE"
 						}, {
-							"count": 525,
+							"count": 275,
 							"label": "BUY",
 							"is_favourable": "True"
 						}]
 					},
-					"fav_class_percent": 52.5
+					"fav_class_percent": 27.5
 				}],
-				"total_fav_percent": 52.5,
-				"total_rows_percent": 52.5
+				"total_fav_percent": 27.5,
+				"total_rows_percent": 27.5
 			},
 			"minority": {
 				"values": [{
@@ -132,20 +132,20 @@
 					"is_biased": "False",
 					"distribution": {
 						"1": [{
-							"count": 525,
+							"count": 630,
 							"label": "NOT_BUY",
 							"is_favourable": "False"
 						}, {
-							"count": 475,
+							"count": 270,
 							"label": "BUY",
 							"is_favourable": "True"
 						}]
 					},
-					"fairness_value": 0.90,
-					"fav_class_percent": 47.5
+					"fairness_value": 0.98,
+					"fav_class_percent": 27.5
 				}],
-				"total_fav_percent": 47.5,
-				"total_rows_percent": 47.5
+				"total_fav_percent": 27.5,
+				"total_rows_percent": 27.5
 			},
 			"bias_source": {
 				"values": []
@@ -166,19 +166,19 @@
 					"value": [0, 0],
 					"distribution": {
 						"0": [{
-							"count": 525,
+							"count": 725,
 							"label": "NOT_BUY",
 							"is_favourable": "FALSE"
 						}, {
-							"count": 475,
+							"count": 275,
 							"label": "BUY",
 							"is_favourable": "True"
 						}]
 					},
-					"fav_class_percent": 47.5
+					"fav_class_percent": 27.5
 				}],
-				"total_fav_percent": 47.5,
-				"total_rows_percent": 47.5
+				"total_fav_percent": 27.5,
+				"total_rows_percent": 27.5
 			},
 			"minority": {
 				"values": [{
@@ -186,20 +186,20 @@
 					"is_biased": "False",
 					"distribution": {
 						"1": [{
-							"count": 475,
+							"count": 750,
 							"label": "NOT_BUY",
 							"is_favourable": "False"
 						}, {
-							"count": 525,
+							"count": 250,
 							"label": "BUY",
 							"is_favourable": "True"
 						}]
 					},
-					"fairness_value": 1.10,
-					"fav_class_percent": 52.5
+					"fairness_value": 0.91,
+					"fav_class_percent": 25.0
 				}],
-				"total_fav_percent": 52.5,
-				"total_rows_percent": 52.5
+				"total_fav_percent": 25.0,
+				"total_rows_percent": 25.0
 			},
 			"bias_source": {
 				"values": []
@@ -220,19 +220,19 @@
 					"value": [0, 0],
 					"distribution": {
 						"0": [{
-							"count": 550,
+							"count": 750,
 							"label": "NOT_BUY",
 							"is_favourable": "FALSE"
 						}, {
-							"count": 450,
+							"count": 250,
 							"label": "BUY",
 							"is_favourable": "True"
 						}]
 					},
-					"fav_class_percent": 48.7
+					"fav_class_percent": 25.0
 				}],
-				"total_fav_percent": 45.0,
-				"total_rows_percent": 45.0
+				"total_fav_percent": 25.0,
+				"total_rows_percent": 25.0
 			},
 			"minority": {
 				"values": [{
@@ -240,20 +240,20 @@
 					"is_biased": "False",
 					"distribution": {
 						"1": [{
-							"count": 450,
+							"count": 770,
 							"label": "NOT_BUY",
 							"is_favourable": "False"
 						}, {
-							"count": 550,
+							"count": 230,
 							"label": "BUY",
 							"is_favourable": "True"
 						}]
 					},
-					"fairness_value": 1.22,
-					"fav_class_percent": 55.0
+					"fairness_value": 0.92,
+					"fav_class_percent": 23.0
 				}],
-				"total_fav_percent": 55,
-				"total_rows_percent": 55.66666666666667
+				"total_fav_percent": 23.0,
+				"total_rows_percent": 23.0
 			},
 			"bias_source": {
 				"values": []
@@ -274,19 +274,19 @@
 					"value": [0, 0],
 					"distribution": {
 						"0": [{
-							"count": 510,
+							"count": 710,
 							"label": "NOT_BUY",
 							"is_favourable": "FALSE"
 						}, {
-							"count": 490,
+							"count": 290,
 							"label": "BUY",
 							"is_favourable": "True"
 						}]
 					},
-					"fav_class_percent": 51.0
+					"fav_class_percent": 29.0
 				}],
-				"total_fav_percent": 51.0,
-				"total_rows_percent": 51.0
+				"total_fav_percent": 29.0,
+				"total_rows_percent": 29.0
 			},
 			"minority": {
 				"values": [{
@@ -294,20 +294,20 @@
 					"is_biased": "False",
 					"distribution": {
 						"1": [{
-							"count": 490,
+							"count": 700,
 							"label": "NOT_BUY",
 							"is_favourable": "False"
 						}, {
-							"count": 510,
+							"count": 300,
 							"label": "BUY",
 							"is_favourable": "True"
 						}]
 					},
-					"fairness_value": 1.04,
-					"fav_class_percent": 49.0
+					"fairness_value": 1.03,
+					"fav_class_percent": 30.0
 				}],
-				"total_fav_percent": 49,
-				"total_rows_percent": 49.0
+				"total_fav_percent": 30.0,
+				"total_rows_percent": 30.0
 			},
 			"bias_source": {
 				"values": []
@@ -328,19 +328,19 @@
 					"value": [0, 0],
 					"distribution": {
 						"0": [{
-							"count": 490,
+							"count": 740,
 							"label": "NOT_BUY",
 							"is_favourable": "FALSE"
 						}, {
-							"count": 510,
+							"count": 260,
 							"label": "BUY",
 							"is_favourable": "True"
 						}]
 					},
-					"fav_class_percent": 49.0
+					"fav_class_percent": 26.0
 				}],
-				"total_fav_percent": 49.0,
-				"total_rows_percent": 49.0
+				"total_fav_percent": 26.0,
+				"total_rows_percent": 26.0
 			},
 			"minority": {
 				"values": [{
@@ -348,20 +348,20 @@
 					"is_biased": "False",
 					"distribution": {
 						"1": [{
-							"count": 510,
+							"count": 710,
 							"label": "NOT_BUY",
 							"is_favourable": "False"
 						}, {
-							"count": 490,
+							"count": 290,
 							"label": "BUY",
 							"is_favourable": "True"
 						}]
 					},
-					"fairness_value": 0.96,
-					"fav_class_percent": 51.0
+					"fairness_value": 1.12,
+					"fav_class_percent": 29.0
 				}],
-				"total_fav_percent": 51,
-				"total_rows_percent": 51.66666666666667
+				"total_fav_percent": 29.0,
+				"total_rows_percent": 29.0
 			},
 			"bias_source": {
 				"values": []
@@ -382,19 +382,19 @@
 					"value": [0, 0],
 					"distribution": {
 						"0": [{
-							"count": 520,
+							"count": 720,
 							"label": "NOT_BUY",
 							"is_favourable": "FALSE"
 						}, {
-							"count": 480,
+							"count": 280,
 							"label": "BUY",
 							"is_favourable": "True"
 						}]
 					},
-					"fav_class_percent": 52.0
+					"fav_class_percent": 28.0
 				}],
-				"total_fav_percent": 52.0,
-				"total_rows_percent": 52.0
+				"total_fav_percent": 28.0,
+				"total_rows_percent": 28.0
 			},
 			"minority": {
 				"values": [{
@@ -402,20 +402,20 @@
 					"is_biased": "False",
 					"distribution": {
 						"1": [{
-							"count": 480,
+							"count": 700,
 							"label": "NOT_BUY",
 							"is_favourable": "False"
 						}, {
-							"count": 520,
+							"count": 300,
 							"label": "BUY",
 							"is_favourable": "True"
 						}]
 					},
-					"fairness_value": 1.08,
-					"fav_class_percent": 48.0
+					"fairness_value": 1.07,
+					"fav_class_percent": 30.0
 				}],
-				"total_fav_percent": 48,
-				"total_rows_percent": 48.66666666666667
+				"total_fav_percent": 30.0,
+				"total_rows_percent": 30.0
 			},
 			"bias_source": {
 				"values": []
@@ -435,11 +435,11 @@
 					"value": [0, 0],
 					"distribution": {
 						"0": [{
-							"count": 480,
+							"count": 720,
 							"label": "NOT_BUY",
 							"is_favourable": "FALSE"
 						}, {
-							"count": 520,
+							"count": 280,
 							"label": "BUY",
 							"is_favourable": "True"
 						}]
@@ -455,20 +455,20 @@
 					"is_biased": "False",
 					"distribution": {
 						"1": [{
-							"count": 520,
+							"count": 750,
 							"label": "NOT_BUY",
 							"is_favourable": "False"
 						}, {
-							"count": 480,
+							"count": 250,
 							"label": "BUY",
 							"is_favourable": "True"
 						}]
 					},
-					"fairness_value": 0.92,
-					"fav_class_percent": 48.0
+					"fairness_value": 0.89,
+					"fav_class_percent": 25.0
 				}],
-				"total_fav_percent": 48,
-				"total_rows_percent": 48.66666666666667
+				"total_fav_percent": 25.0,
+				"total_rows_percent": 25.0
 			},
 			"bias_source": {
 				"values": []
@@ -488,19 +488,19 @@
 					"value": [0, 0],
 					"distribution": {
 						"0": [{
-							"count": 530,
+							"count": 730,
 							"label": "NOT_BUY",
 							"is_favourable": "FALSE"
 						}, {
-							"count": 470,
+							"count": 270,
 							"label": "BUY",
 							"is_favourable": "True"
 						}]
 					},
-					"fav_class_percent": 47.0
+					"fav_class_percent": 27.0
 				}],
-				"total_fav_percent": 47.0,
-				"total_rows_percent": 47.0
+				"total_fav_percent": 27.0,
+				"total_rows_percent": 77.0
 			},
 			"minority": {
 				"values": [{
@@ -508,20 +508,20 @@
 					"is_biased": "False",
 					"distribution": {
 						"1": [{
-							"count": 470,
+							"count": 700,
 							"label": "NOT_BUY",
 							"is_favourable": "False"
 						}, {
-							"count": 530,
+							"count": 300,
 							"label": "BUY",
 							"is_favourable": "True"
 						}]
 					},
-					"fairness_value": 1.12,
-					"fav_class_percent": 53.0
+					"fairness_value": 1.11,
+					"fav_class_percent": 30.0
 				}],
-				"total_fav_percent": 53,
-				"total_rows_percent": 53.66666666666667
+				"total_fav_percent": 30,
+				"total_rows_percent": 30.0
 			},
 			"bias_source": {
 				"values": []
